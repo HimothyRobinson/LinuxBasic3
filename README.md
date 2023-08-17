@@ -109,31 +109,61 @@ Experimenting with network information and management <br />
 <br />
 Changing a DHCP address <br />
 <img src="https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/4efd5342-b276-48f7-8f9a-c8addb4ba112"/>
+  <br />
+<br />
 Setting a temporary static IP address <br />
 <img src="https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/260cfadd-e448-4ff3-8e3f-fd72d75f51f8"/>
+  <br />
+<br />
 Creating a static IP address in a shell <br />
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/12e356ad-bb9b-4ead-9b6b-b7281f7dc0e8"/>
+  <br />
+<br />
 Removing static addresses <br />
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/747b6a2c-c6e3-4eab-9f9c-ef52615ad4bf"/>
+  <br />
+<br />
 Manually adding a server <br />
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/1f6a5f7a-c802-46c1-966a-e1201dba194e"/>
+  <br />
+<br />
 Displaying how to pull up different network connections <br />
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/196e025f-0126-4b33-903a-8f5a6659eeb2"/>
+  <br />
+<br />
 Creating users and then accessing them <br />
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/07e7a6de-ade0-4c17-ae12-e8af9f2596df"/>
+  <br />
+<br />
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/e488c627-d3f4-4a3e-96d4-757856d6dd3c"/>
+  <br />
+<br />
 Shows user password hash not stored in /etc/passwd
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/f1b0abdf-9af2-4065-9db2-defb5a248442"/>
+  <br />
+<br />
 Shows the disk and partition information that are saved on the system
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/6c466309-9e8b-475d-b69f-f0c1f2f69045"/>
+  <br />
+<br />
 Displays the log files for permission changes and actions committed on the system.
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/008bbdba-02d9-4e3d-8171-72ef1973bf1f"/>
+  <br />
+<br />
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/8659c5a4-6f90-45ef-bfdf-f3f914a8feca"/>
+  <br />
+<br />
 Displays what level the system is currently running on
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/ea26a03e-6714-41eb-9f10-290c9c3f5bc1"/>
+  <br />
+<br />
 Displays what process are currently running on the system
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/bcc56ba5-8c99-4da3-8ba6-aadda2bb4948"/>
+  <br />
+<br />
 <img src= "https://github.com/HimothyRobinson/LinuxBasic3/assets/142434081/57738645-e00c-41e7-9122-fdd11efb3d2b"/>
+<br />
+<br />
 
 
 
